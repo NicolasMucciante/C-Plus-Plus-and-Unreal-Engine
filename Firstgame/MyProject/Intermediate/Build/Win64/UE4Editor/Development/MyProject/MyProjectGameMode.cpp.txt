@@ -1,0 +1,17 @@
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Source\MyProject\MyProjectGameMode.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameMode.generated.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Source\MyProject\MyProjectCharacter.h
+C:\UE_4.27\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\UE_4.27\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectCharacter.generated.h

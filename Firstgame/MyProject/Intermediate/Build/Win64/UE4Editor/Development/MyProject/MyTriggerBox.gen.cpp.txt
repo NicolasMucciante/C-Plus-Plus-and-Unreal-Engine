@@ -1,0 +1,9 @@
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Source\MyProject/MyTriggerBox.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyTriggerBox.generated.h

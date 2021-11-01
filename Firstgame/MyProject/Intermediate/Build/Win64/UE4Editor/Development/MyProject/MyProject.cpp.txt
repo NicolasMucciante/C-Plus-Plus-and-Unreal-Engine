@@ -1,0 +1,2 @@
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\Nicolas Mucciante\Documents\GitHub\C-Plus-Plus-and-Unreal-Engine\Firstgame\MyProject\Source\MyProject\MyProject.h
